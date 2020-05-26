@@ -197,7 +197,7 @@ if (BMIMark > BMIJohn) {
 /*****************************
 * Boolean logic
 */
-
+/*
 var firstName = 'John';
 var age = 20;
 
@@ -210,4 +210,5 @@ if (age < 13) {
 } else {
     console.log(firstName + ' is a man.');
 }
+*/
 
